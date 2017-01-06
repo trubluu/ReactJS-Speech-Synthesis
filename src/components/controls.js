@@ -56,6 +56,7 @@ const Controls = (props) => {
         <div className="controls">
             <span className="fa fa-play fa-3x" aria-hidden="true" onClick={() => speakOnClick()}></span>
             <span className="fa fa-pause fa-3x" aria-hidden="true" onClick={() => pauseOnClick()}></span>
+            <span className="fa fa-repeat fa-3x" aria-hidden="true" onClick={() => resumeOnClick()}></span>
             <span className="fa fa-stop fa-3x" aria-hidden="true" onClick={() => cancelOnClick()}></span>
         </div>
     )

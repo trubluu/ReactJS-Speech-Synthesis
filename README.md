@@ -1,33 +1,4 @@
-Proclaimr
+ReactJS Speech Synthesis
 ---
  
-Welcome.
-
-
-
-Usage
----
- 
-Start the development server with this command:
- 
-```
-npm start
-```
- 
- 
- 
-Setup
----
- 
-```
-npm install
-```
-
-
-
-Compile
----
- 
-```
-npm run compile
-```
+The reactjs speech synthesis app uses all stateless functional components and buttons to utter a statement.
